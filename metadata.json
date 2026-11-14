@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Heritage Jewels",
+  "description": "Luxury fine jewellery e-commerce storefront and centralized role-based order, payment, delivery, and inventory management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
